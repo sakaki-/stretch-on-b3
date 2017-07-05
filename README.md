@@ -6,4 +6,4 @@ This is a work in progress, not ready for live usage yet.
 
 The initial networking setup of the live-USB is as follows:
 
-![Initial B3 Networking Setup](https://raw.githubusercontent.com/sakaki-/resources/master/excito/b3/gentoo_b3_initial_networking_setup.png)
+![Initial B3 Networking Setup](https://raw.githubusercontent.com/sakaki-/resources/master/excito/b3/debian_b3_initial_networking_setup_small.png)
